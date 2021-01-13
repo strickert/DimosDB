@@ -2,7 +2,7 @@
 
 **Source Code is under embargo until October 2021**
 
-DimosDB is a web application for managing, sharing, and querying differential mobility spectrometry data and metadata. The application is designed to reduce the time required to develop Differential Mobility Mass-Spectrometry (DMS-MS) and  Liquid-Chromatgrapy Differential Mobility Mass-Spectrometry (LC-DMS-MS) methods and simultaneously demonstrate the advantages of using non-traditional databases and modern web frameworks and libraries to create flexible and scalable web solutions to manage the rapidly increasing volume and complexity of MS data. The DimosDB platform is divided into three sections, presented in detail below, \emph{i.e.}, manage, compare, and optimize.
+DimosDB is a web application for managing, sharing, and querying differential mobility spectrometry data and metadata. The application is designed to reduce the time required to develop Differential Mobility Mass-Spectrometry (DMS-MS) and  Liquid-Chromatgrapy Differential Mobility Mass-Spectrometry (LC-DMS-MS) methods and simultaneously demonstrate the advantages of using non-traditional databases and modern web frameworks and libraries to create flexible and scalable web solutions to manage the rapidly increasing volume and complexity of MS data. The DimosDB platform is divided into three sections, presented in detail below, i.e., manage, compare, and optimize.
 
 
 ## Data management
